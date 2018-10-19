@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Personal Webpage"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Saeed Mirazimi"
 description              : &description "personal description"
