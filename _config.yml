@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "My Personal Webpage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Saeed Mirazimi"
 description              : &description "personal description"
 url                      : https://mirleo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Saeed Mirazimi"
   avatar           : "IMG_2661.JPG"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Applied Mathematician, Data Science Enthusiast"
+  location         : "Vancouver, Beautiful BC, Canada"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            :  "mirazimisaeed@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "MirLeo"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "mirazimisaeed"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@MirLeo93"
   vine             :
   weibo            :
   xing             :
